@@ -1,4 +1,4 @@
-### 🔎🐞 “The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten.” Karl Wiegers
+ _🔎🐞 “The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten.” – Karl Wiegers_
 
 <!--
 **temryakov/temryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
