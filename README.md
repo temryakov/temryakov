@@ -1,4 +1,4 @@
-### 🔎🐞 Quality means doing it right when no one is looking. 
+### 🔎🐞 “The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten.” Karl Wiegers
 
 <!--
 **temryakov/temryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
