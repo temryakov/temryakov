@@ -1,4 +1,4 @@
- _🔎🐞 “The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten.” – Karl Wiegers_
+ "Quality is not an act, it is a habit." - Aristotle
 
 <!--
 **temryakov/temryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
