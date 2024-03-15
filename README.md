@@ -1,4 +1,4 @@
- "Quality is not an act, it is a habit." - Aristotle
+ "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
 
 <!--
 **temryakov/temryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
